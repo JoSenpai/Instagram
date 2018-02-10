@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jonathanyong/AndroidStudioProjects/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/jonathanyong/AndroidStudioProjects/Instagram/ParseStarterProject/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jonathanyong/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/jonathanyong/Downloads/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jonathanyong/Downloads/Instagram2/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/jonathanyong/Downloads/Instagram2/ParseStarterProject/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,7 @@
+#Fri Dec 08 19:23:44 AEDT 2017
+base.0=/Users/jonathanyong/Downloads/Instagram2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_51bcde40fb49421fa45ad3340c346dc81d223327
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/jonathanyong/Downloads/Instagram2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8518dc6ed781a11ffc00f9431c0669ae0baa4afd/classes.dex
+base.1=/Users/jonathanyong/Downloads/Instagram2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8518dc6ed781a11ffc00f9431c0669ae0baa4afd
+file.0=/Users/jonathanyong/Downloads/Instagram2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_51bcde40fb49421fa45ad3340c346dc81d223327/classes.dex

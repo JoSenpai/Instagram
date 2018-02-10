@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanyong/AndroidStudioProjects/Instagram/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6dcb984f2c196a8e656ab97ecb863232b287e248">
+        <dex dex="/Users/jonathanyong/AndroidStudioProjects/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f24f5a7762593d0ed15b1c738678e765b2aa2185/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanyong/AndroidStudioProjects/Instagram/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/jonathanyong/AndroidStudioProjects/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_edba4ab10c33c99460e22273cff1bf98cac13965/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanyong/Downloads/Instagram2/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6dda428cd76ccf935fd0cbf548db54f5162e5f3c">
+        <dex dex="/Users/jonathanyong/Downloads/Instagram2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_51bcde40fb49421fa45ad3340c346dc81d223327/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanyong/Downloads/Instagram2/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/jonathanyong/Downloads/Instagram2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8518dc6ed781a11ffc00f9431c0669ae0baa4afd/classes.dex" />
+    </item>
+
+</items>
